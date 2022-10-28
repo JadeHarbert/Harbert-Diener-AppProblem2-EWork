@@ -4,3 +4,5 @@ By: Jade Harbert & Emily Diener
 Demonstrates knowledge of the "private small team" repository model
 
 Adding line of text
+
+Adding another line of text :D
